@@ -1,6 +1,6 @@
-# Kinduct Tech Project - Pratik Panchani
+#  PHP Project
     
-This is a simple application that uses uses CodeIgniter API in Back-End and ReactJs in Front-End to perform following operations:
+This is a simple application that uses uses CodeIgniter API in Back-End, MySQl as database and ReactJs in Front-End to perform following operations:
 
     - Upload .json file to POST data
     
@@ -33,7 +33,7 @@ This is a simple application that uses uses CodeIgniter API in Back-End and Reac
 
     For XAMP: Under C:\campp\htdocs
 
-    Make sure to change the name of the project from "kinduct-master"  to "kinduct"
+    Make sure to change the name of the project from "php-project-master"  to "php-project"
 
 3. **Run the Server and MySQL.**
 
@@ -41,7 +41,7 @@ This is a simple application that uses uses CodeIgniter API in Back-End and Reac
 
 5. **Change /application/config/config.php to set up the base url:**
 
-    Line Number 26: $config['base_url'] = 'http://localhost/kinduct/';
+    Line Number 26: $config['base_url'] = 'http://localhost/php-project/';
     
 7. **Change /application/config/database.php**
 
@@ -72,3 +72,4 @@ This is a simple application that uses uses CodeIgniter API in Back-End and Reac
   **HELP:**
   
     - Email me for any concerns or questions: pratikpatel5357@gmail.com
+
