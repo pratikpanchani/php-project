@@ -1,6 +1,6 @@
 #  PHP Project
     
-This is a simple application that uses uses CodeIgniter API in Back-End, MySQl as database and ReactJs in Front-End to perform following operations:
+This is a simple application that uses uses CodeIgniter API in Back-End, MySQL as database and ReactJs in Front-End to perform following operations:
 
     - Upload .json file to POST data
     
