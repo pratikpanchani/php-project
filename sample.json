@@ -1,0 +1,52 @@
+{
+"Players": [
+{
+"Name": "Sam",
+"Age": 12,
+"Location": {
+"City": "Ottawa",
+"Province": "ON",
+"Country": "Canada"
+}
+},
+{
+"Name": "Michael",
+"Age": 33,
+"Location": {
+"City": "Red Deer",
+"Province": "AB",
+"Country": "Canada"
+}
+}
+,
+{
+"Name": "Dhruven",
+"Age": 22,
+"Location": {
+"City": "Vancouver",
+"Province": "BC",
+"Country": "Canada"
+}
+}
+,
+{
+"Name": "Jemin",
+"Age": 32,
+"Location": {
+"City": "Montreal",
+"Province": "QC",
+"Country": "Canada"
+}
+}
+,
+{
+"Name": "Test2",
+"Age": 13,
+"Location": {
+"City": "Edmenton",
+"Province": "AB",
+"Country": "Canada"
+}
+}
+]
+}
